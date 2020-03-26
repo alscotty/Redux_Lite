@@ -20,4 +20,6 @@ const genericReducer = (prevState={}, action) => {
 
 }
 
-console.log(genericReducer({},exampleAction))
+//export reducers
+// console.log(genericReducer({},exampleAction))
+
